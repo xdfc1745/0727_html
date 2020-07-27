@@ -1,0 +1,29 @@
+.box_wrapper1 {
+    display : flex;
+    justify-content: flex-start;
+    align-items: center;
+    width : 700px;
+    height : 130px;
+}
+.box_wrapper2 {
+    display : flex;
+    justify-content: center;
+    align-items: center;
+    width : 700px;
+    height : 130px;
+}
+.box_wrapper3 {
+    display : flex;
+    justify-content: flex-end;
+    align-items: center;
+    width : 700px;
+    height : 130px;
+}
+.box {
+    width : 120px;
+    height : 120px;
+    display : flex;
+    background-color: thistle;
+    margin : 5px;
+    border-radius: 5px;
+}

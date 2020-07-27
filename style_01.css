@@ -1,0 +1,19 @@
+.box_wrapper {
+    display : flex;
+    border : 3px solid sandybrown;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 5px;
+    width : 500px;
+    height :200px;
+}
+
+.box {
+    display : flex;
+    width : 120px;
+    height  :120px;
+    background-color: sandybrown;
+    margin : 3px;
+    border-radius: 5px;
+
+}
